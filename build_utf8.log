@@ -1,0 +1,35 @@
+﻿
+> for-my-valentine@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+npm : Browserslist: 
+caniuse-lite is 
+outdated. Please run:
+At line:1 char:1
++ npm run build > 
+build.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (Browser   
+ slist: c...ed. P    
+lease run::Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+  npx update-browsers
+list-db@latest
+  Why you should do 
+it regularly: https:/
+/github.com/browsersl
+ist/update-db#readme
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-dom/client' in 'C:\Users\gurub\OneDrive\Documents\REACT\for-my-valentine\src'
+
+
