@@ -97,13 +97,13 @@ function App() {
         <>
           <SuccessCarousel />
 
-          <div className='text-xl  font-dancing font-bold text-primary mb-4 text-center px-4 mt-8'>
-          Happy Valentine's Day ! 💏
+          <div className='text-xl  font-poppins font-bold text-primary mb-4 text-center px-4 mt-8'>
+            Happy Valentine's Day ! 💏
 
           </div>
 
-          <div className='text-xl  font-dancing font-bold text-primary mb-4 text-center px-4 mt-8'>
-           Dear Kavya!, a small gift for you, to remind you that my heart chose you.. and keeps choosing you everyday {"<3"}
+          <div className='text-3xl  font-dancing font-bold text-primary mb-4 text-center px-4 mt-8'>
+            Dear Kavya!, a small gift for you, to remind you that my heart chose you.. and keeps choosing you everyday ❤️
           </div>
         </>
       ) : (
