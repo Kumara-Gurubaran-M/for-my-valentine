@@ -98,7 +98,11 @@ function App() {
           <SuccessCarousel />
 
           <div className='text-xl  font-dancing font-bold text-primary mb-4 text-center px-4 mt-8'>
-            உன் விழிகளில் தொலைந்தே போனேன்... மண்ணுக்குள் மறையும்<br></br> முன்னே, உன் மடியில் என்னை அரவணைத்துக் கொள்வாயா?! 💏
+            Happy Valentine's Day ! 💏
+          </div>
+
+          <div className='text-xl  font-dancing font-bold text-primary mb-4 text-center px-4 mt-8'>
+           Dear Kavya!, a small gift for you, to remind you that my heart chose you.. and keeps choosing you everyday <3
           </div>
         </>
       ) : (
